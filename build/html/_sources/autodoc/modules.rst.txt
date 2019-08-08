@@ -4,4 +4,4 @@ nb
 .. toctree::
    :maxdepth: 4
 
-   nb
+   BaseData_class
