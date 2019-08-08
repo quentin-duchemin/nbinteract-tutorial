@@ -1,7 +1,7 @@
-nb
-==
+MRF
+===
 
 .. toctree::
    :maxdepth: 4
 
-   nb
+   MRF

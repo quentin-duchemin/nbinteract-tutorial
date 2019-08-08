@@ -1,0 +1,11 @@
+
+import sys
+sys.path.append('..')
+from ..Data_class import Data_class
+
+if __name__ == 'main':
+	
+	Dataclass = Data_class(0,0,0,0,0,0,ghost=True)
+	
+	Dataclass.compute_fingerprints()
+
