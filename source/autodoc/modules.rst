@@ -1,7 +1,7 @@
-nbinteract-tutorial
-===================
+nb
+==
 
 .. toctree::
    :maxdepth: 4
 
-   MRF
+   nb

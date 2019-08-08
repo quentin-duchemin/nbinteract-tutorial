@@ -1,13 +1,13 @@
-MRF package
-===========
+nb package
+==========
 
 Submodules
 ----------
 
-MRF.BaseData\_class module
---------------------------
+nb.BaseData\_class module
+-------------------------
 
-.. automodule:: MRF.BaseData_class
+.. automodule:: nb.BaseData_class
     :members:
     :undoc-members:
     :show-inheritance:
@@ -16,7 +16,7 @@ MRF.BaseData\_class module
 Module contents
 ---------------
 
-.. automodule:: MRF
+.. automodule:: nb
     :members:
     :undoc-members:
     :show-inheritance:
