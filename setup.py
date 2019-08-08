@@ -13,14 +13,21 @@ setuptools.setup(
     version="0.0.1",
     author="surister",
     author_email="surister98@gmail.com",
+    licesne='MIT',
     description="Wakatime data manipulation",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/quentin-duchemin/nbinteract-tutorial",
+    url="https://github.com/surister/wakapy",
     include_package_data=True,
     python_requires='>3.6.0',
     install_requires=[
         'matplotlib'
     ],
     packages=setuptools.find_packages(),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Topic :: Internet",
+        "Topic :: Utilities"
+    ],
 )
